@@ -1,0 +1,486 @@
+§2§nGuide:                    §r§0
+
+Hallo. In diesem Guide möchte ich dir zeigen, wie man Artikel für den AyoBlitz verfasst, dass sie sich gut les-
+en lassen und schön formatiert sind.
+Ausserdem möchte ich hier einige Standards festlegen.
+
+----------------------------------
+
+§2§nGuide:                    §r§0
+
+Gehen wir dafür den Blitz einmal der Reihe nach durch.
+
+Es ist vorteilhaft, wenn du währenddessen das .txt-File offen hast, da du somit siehst, wie der Text dort aussieht.
+
+----------------------------------
+
+§2§nGuide:                    §r§0
+
+Die Basics: Im File ist eine neue Seite durch einen horizontalen
+------------------
+Strich markiert. Eine Zeile über und eine unter dem Strich sind leer und gehören nicht zu den Texten in den Seiten.
+
+----------------------------------
+
+§4§nDies ist ein Header:     §r§0
+
+Header oder Titel sind immer in der ersten Zeile des Buches.
+Sie nehmen nicht mehr als eine Zeile ein, der Rest der Zeile wird mit unterstrichenen Leer-
+zeichen gefüllt.
+Zwischen Header und Text ist immer eine Leerzeile.
+
+----------------------------------
+
+§2§nGuide:                    §r§0
+
+Header stehen im Blitz für verschiedene Sek-
+tionen. Es wird nicht einfach etwas Neues für die Header dazu-
+gedichtet, da wir in unserem Layout keine allzu grossen Unter-
+schiede zu älteren Versionen haben möchten.
+
+----------------------------------
+
+§2§nGuide:                    §r§0
+
+Die Titelseite: Auf ihr ist immer der Blitz zu sehen, bei Spezial-
+editionen wird er z.B. eine andere Farbe tragen. Das Datum und die Editionsnummer ändern sich natürlich jedes Mal, und auch farblich sind sie variabel.
+
+----------------------------------
+
+      §6%%%%%%%%%
+      §6%%%%%%%%
+        §6%%%%%%%%
+       §6%%%%%%%%
+      §6%%%%%%%%
+     §6%%%%%%%
+        §6%%%%%%%
+       §6%%%%%%%
+      §6%%%%%%
+     §6%%%%%
+    §6%%%%
+   §6%%%   §1AyoBlitz
+  §6%%    §1##/#.#.15
+ §6%
+
+----------------------------------
+
+§7§nFarbcodes:              §r§0
+
+§1Blau; §2Grün; §3Cyan; §4Rot; §5Lila; §6Gold; §7Hellgrau; §8Dunkelgrau; §9Hellblau; §0Schwarz;
+§aHellgrün; §bAqua; §cHellrot; §dRosa; §eGelb; §fWeiss; §0Schwarz = Farbreset
+§nunterstrichen und §lfett §rreset
+
+----------------------------------
+
+§7§nFarbcodes:              §r§0
+
+§6gold §okursiv §1blau normal
+§0farbe resettet §msowas also §9auch
+
+§0Schaut am besten im .txt-File die Forma-
+tierung etwas genauer an.
+
+---------------------------------
+
+§2§nGuide:                    §r§0
+
+Nun wieder seriöser.
+Als Nächstes möchte ich die Seitengestal-
+tung bezüglich Les-
+barkeit und Ästhetik besprechen.
+Wie schreibt man einen Artikel, so dass er schön aussieht?
+
+---------------------------------
+
+§3§nArtikel schreiben #1:   §r§0
+
+Setz dein Resource-
+Pack auf Default. Die meisten Leser lesen den Blitz mit der klas-
+sischen Schriftart, und die Formatierung mit anderen Schrift-
+arten fällt nun mal anders aus.
+
+---------------------------------
+
+§3§nArtikel schreiben #2:   §r§0
+
+Verfass den Artikel im Buch direkt. Somit kan-
+nst du deine Wortwahl so anpassen, dass es im Buch perfekt auf die einzelnen Seiten passt und angenehm für's Auge ist.
+
+Hier ein paar Beispiele:
+
+---------------------------------
+
+§4§nDON'T:                    §r§0
+
+Heute habe ich einen unglaublich überlangen Artikel formuliert.
+In meinem Zeitdruck habe ich ganz vergessen, darauf zu achten, dass es keinen Flattersatz
+und unnötige Umbrüche gibt.
+
+---------------------------------
+
+§4§nDON'T:                    §r§0
+
+Deshalb dachte ich mir, ich versuche es ein-
+mal mit den Bindestri-
+chen, damit alles et-
+was schöner auf die Seite passt. Natürlich ist es nicht immer ein-
+fach, sich zu ent-
+scheiden, wo getrennt wird, und wo nicht.
+
+----------------------------------
+
+§3§nArtikel schreiben #3:   §r§0
+
+Deshalb achte bei den Trennstrichen darauf, dass nicht mehr als zwei Striche in aufein-
+anderfolgenden Reihen auftreten, und dass insgesamt nicht zu viele Striche am Seitenrand sind.
+Das macht das Ganze lesbarer.
+
+----------------------------------
+
+§3§nArtikel schreiben #4:   §r§0
+
+Sobald du etwas hast, worüber du berichten kannst, fasse es hier in einem MC-Buch in Worte. Brauchst du mehr als eine Seite, so überleg zweimal, ob du den Platz auch wirklich brauchst.
+
+Sei dir im Klaren:
+
+----------------------------------
+
+§3§nArtikel schreiben #4:   §r§0
+
+* Der AyoBlitz ist darauf ausgelegt, kompakt zu sein.
+
+* Leute lesen lieber kurze, aussagekräf-
+tige Artikel, statt lange, wortschwangere Texte.
+
+Und falls du doch so viel Platz brauchst...
+
+----------------------------------
+
+§3§nArtikel schreiben #4:   §r§0
+
+... dann achte darauf, dem Leser klar mitzu-
+teilen, dass es sich noch immer um einen zusammenhängenden Text handelt.
+
+Wie man dies erreicht, siehst du auch auf den Seiten 16, 17 und 19.
+
+----------------------------------
+
+§3§nArtikel schreiben #4:   §r§0
+
+Ausserdem kann man das Thema auch so fortführen, wie ich eben gerade.
+
+Doch lässt sich ein Text auf eine Seite komprimieren, so ist es erwünscht, dass der Artikel auch so ge-
+schrieben wird.
+
+----------------------------------
+
+§4§nArtikel schreiben #4:   §r§0
+
+Auch wenn dabei klei-
+nere Infos verloren gehen.
+
+(Hier ist der Titel rot, um anzuzeigen, dass dies eben ein Seiten-
+wechsel war, der nicht sonderlich gut gelun-
+gen ist.)
+
+----------------------------------
+
+§2§nGuide:                    §r§0
+
+Soweit so gut.
+Ich gebe hier mal ein Beispiel für einen Artikel in drei Bearbei-
+tungsphasen.
+Ziel ist es, den Text auf eine Seite zu re-
+duzieren, ohne einen grossen Informations-
+verlust in Kauf zu nehmen.
+
+----------------------------------
+
+§9§nVersuch #1:              §r§0
+
+Am 7. August wurden 00T und Windsturm Testobjekte einer Forschung zum Paa-
+rungsverhalten in Minecraft.
+Schon bald war eine ganze Schar von Spie-
+lern in der "Melonen-
+paarungsbox" am Spawn eingesperrt.
+
+-----------------------------------
+
+§9§nVersuch #1:              §r§0
+
+Im Verlauf des Expe-
+riments kam Hylianer erstaunt zur Erkennt-
+nis, dass Männer ohne Frauen keinen Nach-
+wuchs zeugen können.
+
+Die Paarungsbox wurde kurz darauf wieder entfernt.
+
+----------------------------------
+
+§9§nVersuch #2:              §r§0
+
+Am 7. August wurde am Spawn ein Experiment zum ingame-Paarungs-
+verhalten der User auf Ayocraft durch-
+geführt.
+Dabei musste Hylianer enttäuscht feststellen, dass Männer alleine keinen Nachwuchs zeugen können.
+
+----------------------------------
+
+§9§nVersuch #3:              §r§0
+
+Am 7.8. wurde am Spawn ein Experiment bezüg-
+lich dem Paarungsver-
+halten von Minecraft-
+Usern durchgeführt.
+
+Der Experiment-Leiter Hylianer04 musste dabei feststellen, dass es ohne Frauen keinen Nachwuchs gibt.
+
+----------------------------------
+
+§2§nGuide:                    §r§0
+
+Man kann nun darüber diskutieren, welcher Artikel besser ist.
+#1 ist ausführlich, aber etwas zu lang.
+#2 lässt sich nicht gut lesen, da der erste Satz zu lang ist.
+#3 hat 3 aufeinander-
+folgende Trennstriche. 
+
+----------------------------------
+
+§2§nGuide:                    §r§0
+
+Trotzdem ist in diesem Fall #3 am besten.
+Kurz und knackig er-
+fährt man in 2 Sätzen das Wichtigste zu dem Ereignis.
+
+Zudem gibt die Leer-
+zeile in der Mitte des Artikels dem Leser etwas "Luft".
+
+----------------------------------
+
+§6§nStandards:               §r§0
+
+Damit wir unseren Blitz möglichst ähnlich formatieren, sind hier noch einige Regeln, wie z.B. auch die, die be-
+reits zu den Headern genannt wurde:
+
+* Zitate und Namen "so" und nicht 'so' markieren.
+
+----------------------------------
+
+§6§nStandards:               §r§0
+
+* Das scharfe S ist mir egal. Ich lasse es weg, ihr dürft es benutzen.
+Ich habe es einfach nicht auf meiner Tastatur. Ausserdem habe ich keine Ahnung, wann ich es brauchen sollte, und wann nicht.
+
+----------------------------------
+
+§6§nStandards:               §r§0
+
+* Im AyoBlitz sind keine Fluchwörter zu ver-
+wenden, wenn es zu vermeiden ist.
+
+* Im AyoBlitz wird die persönliche Meinung zurückgehalten, und möglichst objektiv über alle Themen, die von Belang sind, ge-
+schrieben.
+
+----------------------------------
+
+§6§nStandards:               §r§0
+
+* Ausrufezeichen nur im Notfall verwenden.
+Erst recht keine Rudel-Zeichensetzung.
+
+* Daten werden in Sätze integriert.
+"7.8. Am Spawn war bla..." wird zu:
+"Am 7. August war am Spawn bla..."
+
+----------------------------------
+
+§6§nStandards:               §r§0
+
+* Bei Platzmangel muss man Monate jedoch nicht ausschreiben.
+Bei genügend Platz Zahlen oder ähnliches ausschreiben, inso-
+fern es vom Layout her passt.
+
+----------------------------------
+
+§6§nStandards:               §r§0
+
+* Texte müssen vor der Veröffentlichung gegengelesen werden.
+Dabei ist auf Kritik zu Wortwahl, Inhalt oder Formatierung einzu-
+gehen, so dass zusam-
+men eine Lösung ge-
+funden werden kann, die für alle optimal ist.
+
+----------------------------------
+
+§5§nDas .txt-File            §r§0
+
+Nun muss nur noch geklärt werden, wie das .txt-File zu ge-
+stalten ist, damit es immer gleich aussieht.
+
+Hat es in einer Zeile keinen manuellen Umbruch, so liegt der Text im File auf einer einzigen Zeile.
+
+----------------------------------
+
+§5§nDas .txt-File            §r§0
+
+Gibt es jedoch manu-
+elle Umbrüche mit Bin-
+destrichen wie diesen, so wird nach einem Bindestrich im File eine neue Zeile angefangen.
+Auch Absätze beginnen auf einer neuen Zeile, auch falls es im Buch nicht nötig ist.
+
+----------------------------------
+
+§5§nDas .txt-File            §r§0
+
+Das File ist dazu da, dass man den Text einfach markieren kann, und mit Ctrl+C und Ctrl+V ins Buch hineinkopieren kann.
+
+Es ist sozusagen eine externe Absicherung des Textes.
+
+----------------------------------
+
+§5§nDas .txt-File            §r§0
+
+Schreib den Text immer zuerst im Buch, so dass die Worte so ge-
+wählt sind, dass es schön formatiert ist.
+
+Erst dann solltest du den Text im Buch in ein .txt-File abtippen, damit du dieselbe Formatie-
+rung erhältst.
+
+----------------------------------
+
+§5§nDas .txt-File            §r§0
+
+Paragraph-Zeichen sind in einem Buch un-
+sichtbar und ausser-
+dem kann man sie hier nicht eintippen.
+Man muss sie also aus einem Text hineinkopi-
+eren, um die Texte im Buch einzufärben.
+
+Dafür ist das .txt auch gut.
+
+----------------------------------
+
+§5§nDas .txt-File            §r§0
+
+Ausserdem behält das .txt-File überflüssige Leerzeichen. Das Ayo-
+Forum nimmt die z.B. raus, was u.a. bei der Formatierung der Tital etwas lästig sein kann.
+
+----------------------------------
+
+§5§nDas .txt-File            §r§0
+
+Sei dir aber bewusst, dass jedes Leerzei-
+chen im Buch einen Platz einnimmt. Und da Bücher nur eine limi-
+tierte Anzahl Zeichen zulassen, ist das For-
+matieren mithilfe von Leerzeichen nicht immer optimal.
+
+----------------------------------
+
+§5§nDas .txt-File            §r§0
+
+Dass mir dabei auch schon der Platz aus-
+gegangen ist, sieht man, wenn man die In-
+haltsverzeichnisse der beiden ersten Blitze miteinander vergleicht.
+Ich habe das Problem mit etwas Improvisation gelöst.
+
+----------------------------------
+
+§8§nInhaltsverzeichnis:     §r§0
+
+*§4Wirtschaft            §03
+*§2Aktuell                 §06
+*§1Kalender             §010
+*§9Rätsel                §012
+*§3Wissen                §014
+*§dWitze                  §018
+*§8Schlusswort         §020
+
+(Blitz 01)
+
+----------------------------------
+
+§8§nInhaltsverzeichnis:     §r§0
+
+*§4Wirtschaft      §03
+*§2Aktuell           §05
+*§1Kalender       §011
+*§5Sehenswürdig: §012
+*§9Rätsel           §014
+*§3Wissen           §017
+*§dWitze             §019
+*§8Schlusswort    §020
+
+(Blitz 02)
+
+----------------------------------
+
+§8§nSchlusswort:             §r§0
+
+So, und bevor mir hier der Platz (50 Seiten) ausgeht, komme ich besser mal zum Schluss.
+
+Der Guide ist nun doch um einiges länger ge-
+worden, als ich es geplant hatte.
+
+----------------------------------
+
+§8§nSchlusswort:             §r§0
+
+Ich habe hier sicher noch einiges verges-
+sen zu erwähnen.
+Aber es ist ja auch schon spät...
+
+Anyways. Ich hoffe, der Guide hilft jedem jetztigen und künfti-
+gen Blitz-Mitschreiber bei der Formatierung.
+
+----------------------------------
+
+§8§nSchlusswort:             §r§0
+
+Das Ziel ist es ja, die optische und inhalt-
+liche Qualität des Ayo-
+Blitzes möglichst hoch zu halten. Und es wäre auch toll, wenn ich mal eine Woche in den Ur-
+laub gehen kann, und der Blitz dann immer noch läuft.
+
+----------------------------------
+
+§8§nSchlusswort:             §r§0
+
+Am optimalsten wäre es ja, wenn in so einem Fall keine Qualitäts-
+Änderung sichtbar ist.
+
+Und alles in allem ist es sicherlich auch gut, wenn wir alle mit etwas Übung die Qualität sogar noch steigern können.
+
+----------------------------------
+
+§8§nSchlusswort:             §r§0
+
+
+
+
+
+Bis dann!
+
+Deine §3Zariem§0,
+Chefredaktorin und Gründerin des Blitzes. 
+
+----------------------------------
+
+§7§nPS:                        §r§0
+
+Signierst du das Buch nun, so bemerkst du, dass in der Formatie-
+rung einiges schief geht, da die Zeilen plötzlich etwas weniger Platz bieten.
+Deshalb ist es immer wichtig, das Buch nach dem Signieren noch mal zu
+
+----------------------------------
+
+§7§nPS:                        §r§0
+
+überprüfen, und sol-
+che Fehler zu entfer-
+nen, (durch hinzufü-
+gen oder entfernen von Trennstrichen), bevor das Buch dann veröffentlicht wird.
+
+Zum Glück haben wir den Text dafür extern gespeichert ;)
+
+----------------------------------
