@@ -21,30 +21,84 @@
 
 ------------------------------
 
-§4§nWirtschaft:              §r§0
+§2§nAktuell:                  §r§0
 
-[Text hier einfügen]
+Am 7. August fing Backpackhead in DSC einen Hühnerreiter ein. Mit einem Minecart, sowie TopAbout's Hilfe, konnte er ihn nach oben befördern, wo er nun neben "Zyklopi" das zweite DSC-Maskottchen ist.
 
 ------------------------------
 
 §2§nAktuell:                  §r§0
 
-[Text hier einfügen]
+Am 7.8. beantragte der Bürgermeister der SBA-Stadt strazdasj die nächsthöhere Stadtstufe "Stadt".
+
+Wird der Antrag ange-
+nommen, so erhält die SBA-Stadt Portale für die Farm- und Nether-
+welt.
+
+------------------------------
+
+§2§nAktuell:                  §r§0
+
+Die Stadt Discidium hat nach dem Verkauf des letzten Wohnblocks weitere acht Wohn-
+blöcke zum Verkauf vorbereitet.
+
+Wir werden erneut darüber berichten, sobald diese kaufbar sind.
+
+------------------------------
+
+§2§nAktuell:                  §r§0
+
+Yariba sichert sich den Accountnamen "PrincessLillyfee" für ihr Baby. Bereits kurz nach der Geburt gab es auf Ayocraft Diskussionen darüber, ob die Kleine die Holzklötzchen auslässt und lieber virtuelle Blöcke stapelt.
+
+------------------------------
+
+§2§nAktuell:                  §r§0
+
+Am 9. August wurde Haruku's "Gumaruku" Projekt genehmigt. Er baut vorerst alleine, nimmt aber gerne Spenden entgegen.
+Projektthema ist eine moderne Partyinsel, die außerdem einen Hafen und eine Alt-
+stadt bekommen soll.
+
+------------------------------
+
+§2§nAktuell:                  §r§0
+
+Am Farmweltspawn ist ein epischer Dirtpan-
+zer aufgetaucht, der nur aus Dirt besteht, und mittels Öfen und Schildern gesichert ist.
+Laut den Erbauern soll der Dirtpanzer eine Protestaktion gegen den Bau von
+
+------------------------------
+
+§2§nAktuell:                  §r§0
+
+Waffen und Kriegs-
+maschinerie sein.
+Das ganze sei eine sehr spontane Aktion gewesen, in der Hoff-
+nung, ein Bewusstsein gegen Waffen zu schaffen.
 
 ------------------------------
 
 §6§nEvents:                  §r§0
 
-[Text hier einfügen]
+Da es auf Ayocraft momentan ziemlich wenige Events gibt, wollen wir hier mal aushelfen.
+
+Heute gibt es eine Schnitzeljagd am Spawn!
+
+------------------------------
+
+§6§nEvents:                  §r§0
+
+Zu finden ist die Schatztruhe auf der Stadtmauer. Und zwar bei einem der beiden Türme, zwischen denen der Fluss hindurchfliesst.
+
+Viel Spass bei der Jagd nach dem Token und anderen tollen Dingen!
 
 ------------------------------
 
 §1§nKalender:                 §r§0
 
-Heute, am 14. August hat Sonnenblume03 Geburtstag. Wir wün-
+Heute, am 14. August, hat Sonnenblume03 Geburtstag. Wir wün-
 schen ihr ganz viel Sonnenschein, damit sie schön blühen kann.
 
-Nächsten Mittwoch, am 19.8 hat maxiking9988 Geburtstag.
+Nächsten Mittwoch, am 19.8, hat maxiking9988 Geburtstag.
 Feier schön! :)
 
 ------------------------------
@@ -59,17 +113,31 @@ Alles Gute, wenn auch nachträglich!
 
 §5§nSehenswürdig:          §r§0
 
-[Text hier einfügen]
+Heute besuchen wir die große "Brokeback Glaskuppel". Man kann sie durch den Warp der Pferderennbahn schnell erreichen.
+Den Warp findet ihr westlich vom Spawn beim Pferdestall.
+Folgt dann dem Weg in Richtung Süden.
 
 ------------------------------
 
-§7§nWerbung:                 §r§0
+§5§nSehenswürdig:          §r§0
 
-[Falls Lara2000 oder sonst noch wer nun Werbung machen darf]
+In Hicki's Burg findet ihr eine Treppe nach unten. Folgt dem Unterwasserweg und durchquert das Netherportal. Schaut euch gut um und ihr findet die einzigartige Höhle!
+Gebaut haben posaidi, pipapomen, Hicki und Adjana.
 
 ------------------------------
 
+§7§nWerbung:                  §r§0
 
+Yariba verkauft:
+
+Pferde in allen Far-
+ben ab 500 Px auf-
+wärts.
+
+Esel mit enormen Sprungtalent:
+4 Blöcke hoch: 1500Px
+5 Blöcke hoch: 3000Px
+6 Blöcke hoch: 10k Px
 
 ------------------------------
 
@@ -110,23 +178,98 @@ Herzlichen Glückwunsch!
 
 §3§nWissen:                    §r§0
 
+In dieser Sektion wird jeweils etwas Wissens-
+wertes kurz vorge-
+stellt.
+Wir versuchen, im Verlauf der Zeit weit-
+gehend alle Themen abzudecken, die von Interesse sein könnten.
+
+Heute: Medizin
+
+-------------------------------
+
+§3§nWissen:                    §r§0
+
+Narkolepsie ist eine Schlafkrankheit.
+Sie entsteht durch den Mangel eines Hor-
+mons, das dem Körper einen Schlaf-Wach-
+Rhythmus gibt.
+Das bekannteste Sym-
+ptom der Narkolepsie ist die Kataplexie, bzw. der komplette
+
+-------------------------------
+
+§3§nWissen:                    §r§0
+
+Verlust über die Kör-
+perkontrolle, während des abrupten Wech-
+sels vom Wachzustand in die Tiefschlaf-
+phase.
+Das heisst, die Person schläft im Stand ein und kracht gegebe-
+nenfalls zusammen.
+
+-------------------------------
+
+§3§nWissen:                    §r§0
+
+Es ist auch ziemlich unmöglich, einen schla-
+fenden Narkoleptiker aufzuwecken.
+Da sie praktisch nur den tiefen Schlaf, bzw. den REM-Schlaf haben, träumen sie fast immer luzid.
+
+Mehr zum REM-Schlaf nächste Woche.
+
+-------------------------------
+
+§3§nWissen:                    §r§0
+
 §oWusstest du schon...§r
 
-[Text hier einfügen. Das "Wusstest du schon" ist optional und kann weggelassen werden]
+... dass Hühnerreiter eine Chance von 0,05% haben zu spawnen?
+
+Sie sind also extrem selten anzutreffen.
 
 -------------------------------
 
 §d§nWitze:                     §r§0
 
-[Witz hier einfügen]
+Zwei Männer müssen eine sperrige und schwere Couch in den 3. Stock tragen.
+Sagt der eine so:
+"Ich habe eine gute und eine schlechte Nachricht."
+Sagt der andere:
+"Die Gute bitte zuerst."
+
+-------------------------------
+
+§d§nWitze:                     §r§0
+
+"Wir sind endlich im dritten Stock."
+
+"Und die Schlechte?"
+
+"Wir sind im falschen Haus."
 
 -------------------------------
 
 §8§nSchlusswort:             §r§0
 
-[Text hier einfügen]
+Das gesamte Redak-
+tionsteam hofft, dass euch die 3. Ausgabe gefallen hat, und Ihr auch weiterhin den AyoBlitz lesen mögt.
+
+In diesem Sinne wünschen wir euch eine tolle Woche.
 
 -------------------------------
+
+§8§nSchlusswort:             §r§0
+
+
+
+
+Eure AyoBlitz-Redaktion
+
+MAureuz, Zariem und Backpackhead
+
+-------------------------------
+
 
 
 
