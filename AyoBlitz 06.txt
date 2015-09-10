@@ -15,26 +15,26 @@
 
 ---------------------------------------
 
+§8§nInhaltsverzeichnis:    §r§0
 
-§2§nAktuell:                  §r§0
+*§4Wirtschaft       §03
+*§2Aktuell           §04
+*§6Events           §09
+*§1Kalender       §012
+*§5Sehenswürdig  §014
+*§cPvP-Tipps      §016
+*§3Wissen           §021
+*§dWitze             §028
+*§8Schlusswort    §030
 
-Am 30. August wurden neue Spieler auf den §2Stamm§0-Rang gehoben.
+---------------------------------------
 
-Die Redaktion gratu-
-liert den Spielern:
+§4§nWirtschaft:              §r§0
 
-TimoK771, Sinaxxyz, Snowcat_67, MAureuz, Haruku, Qesterchen, sowie Philipp_97 zu ihrem Rang.
+Die Shopversteiger-
+ung vom letzten Mal ergab, dass Haruku's Shop 21 für ca. 340k an Da_Koasa ging. Haruku vergaß das Verlängern Schild.
 
-----------------------------------------
-
-
-§2§nAktuell:                  §r§0
-
-Zudem wurde MAureuz am 1.9 zum §bSupporter§0 ernannt.
-
-Und Da_Koasa erhielt am selben Tag noch den §9Guard§0-Rang.
-
-Auch ihnen gratuliert die Redaktion herzlich.
+Shop 47 von Megaflare97 ging für 95k an BadPrincess.
 
 -----------------------------------------
 
@@ -48,14 +48,26 @@ Deathfish17 ist seit dieser Ausgabe mit dabei beim Blitz!
 Herzlich Willkommen
 bei uns, Fishi. :)
 
-------------------------------------------
+----------------------------------------
 
-§2§nAktuell:                   §r§0
+§2§nAktuell:                  §r§0
 
-Die Shopversteiger-
-ung vom letzten Mal ergab, dass Haruku's Shop 21 für ca. 340k an Da_Koasa ging. Haruku vergaß das Verlängern Schild.
+Am 30. August wurden neue Spieler auf den §2Stamm§0-Rang gehoben.
 
-Shop 47 von Megaflare97 ging für 95k an BadPrincess.
+Die Redaktion gratu-
+liert den Spielern:
+
+TimoK771, Sinaxxyz, Snowcat_67, MAureuz, Haruku, Qesterchen, sowie Philipp_97 zu ihrem Rang.
+
+----------------------------------------
+
+§2§nAktuell:                  §r§0
+
+Zudem wurde MAureuz am 1.9 zum §bSupporter§0 ernannt.
+
+Und Da_Koasa erhielt am selben Tag noch den §9Guard§0-Rang.
+
+Auch ihnen gratuliert die Redaktion herzlich. 
 
 ------------------------------------------
 
@@ -64,7 +76,6 @@ Shop 47 von Megaflare97 ging für 95k an BadPrincess.
 Die asiatischen Türme in Discidium wurden vom Staff entfernt und in eine andere Gegend verschoben.
 
 Discidium beantragte erfolgreich eine Erweiterung für die frei gewordene Fläche.
-
 
 ------------------------------------------
 
@@ -84,7 +95,6 @@ ten in 3er-Teams an, und müssen sich quer durch's Labyrinth kämpfen, Rätsel löse
 
 ------------------------------------------
 
-
 §6§nEvents:                  §r§0
 
 Die Schatzsuche vom Blitz05 kam bei den Usern gut an.
@@ -92,7 +102,6 @@ Insgesamt wurden Gegenstände im Wert von über 8200Px versteckt.
 Die besten Preise wurden erst nach einer halben Woche gefunden.
 
 ------------------------------------------
-
 
 §6§nEvents:                  §r§0
 
@@ -189,6 +198,59 @@ und bist somit ein leichteres Ziel.
 
 §3§nWissen:                    §r§0
 
+Medizin:
+ALS bzw. Amytrophe Lateralsklerose ist eine Krankheit, die die motorischen Nerven des Körpers zer-
+stört. Auf Englisch heisst die Krankheit daher "Motor Neuron Disease".
+
+---------------------------
+
+§3§nWissen:                    §r§0
+
+Die Krankheit tretet sehr selten auf, nur etwa 3-8 von 100k Menschen leiden darunter. Zudem tritt sie meistens zwischen dem fünfzigsten und siebzigsten Lebens-
+jahr auf, doch ganz selten erkranken auch 25-35-Jährige.
+
+---------------------------
+
+§3§nWissen:                    §r§0
+
+Es beginnt damit, dass manche Muskeln ver-
+sagen, und man Pro-
+bleme beim Schlucken oder Sprechen hat, stolpert, o.Ä.
+Die Muskeln beginnen zu schwinden, und die Atemmuskulatur wird gelähmt, weshalb
+
+---------------------------
+
+§3§nWissen:                    §r§0
+
+es oft zu Lungenent-
+zündungen kommt, die im Tod des Patienten enden.
+Die Lebenszeit nach einer Diagnose be-
+trägt im Mittel 3-5 Jahre.
+Heilbar ist die Krank-
+heit bisher nicht.
+Ursachen sind auch nicht bekannt.
+
+---------------------------
+
+§3§nWissen:                    §r§0
+
+Jedoch gibt es auch Spezialfälle, wie z.B. der weltberühmte Astrophysiker Stephen Hawkins.
+
+Er wurde im Alter von 21 Jahren mit ALS diagnostiziert (1963), und lebt noch heute.
+
+---------------------------
+
+§3§nWissen:                    §r§0
+
+Nun verfasst er mit Augenbewegungen an einem Sprachcomputer Texte, die vorgelesen werden, oder er sch-
+reibt damit Bücher über die Physik.
+
+Das Hirn wird nämlich durch die ALS nicht beeinträchtigt.
+
+---------------------------
+
+§3§nWissen:                    §r§0
+
 §oWusstest du schon...§r
 
 Bruchsteinmauern, Netherziegelzäune und Holzzäune jeder Art verbinden sich nicht untereinander.
@@ -203,7 +265,7 @@ beine bauen.
 Ein Mönch und eine Nonne spielen Tennis. Der Mönch trifft den Ball nicht und flucht: "Scheiße, daneben!"
 
 Darauf die Nonne: "Wenn du das nochmal sagst kommt ein Blitz vom Himmel und trifft dich."
-Fünf Minuten später..
+Fünf Minuten später...
 
 ---------------------------
 
@@ -217,3 +279,31 @@ Plötzlich hört man eine Stimme:
 "Scheiße, daneben..."
 
 ---------------------------
+
+§8§nSchlusswort:             §r§0
+
+Vielen Dank, dass du nun auch die 6te Ausgabe des Blitzes gelesen hast.
+
+Für ältere Ausgaben kann man Zariem an-
+schreiben.
+
+---------------------------
+
+§8§nSchlusswort:             §r§0
+
+Wir wünschen euch
+ein ganz schönes Wo-
+chenende und eine gute Woche.
+
+Eure AyoBlitz Redaktion:
+
+Deathfish17, MAureuz, Zariem, Backpackhead.
+
+---------------------------
+
+
+
+
+
+Nächste Ausgabe geplant am:
+18.9.
