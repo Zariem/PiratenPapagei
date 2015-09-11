@@ -17,15 +17,16 @@
 
 §8§nInhaltsverzeichnis:    §r§0
 
-*§4Wirtschaft       §03
-*§2Aktuell           §04
-*§6Events           §09
-*§1Kalender       §012
-*§5Sehenswürdig  §014
-*§cPvP-Tipps      §016
-*§3Wissen           §021
-*§dWitze             §028
-*§8Schlusswort    §030
+*§4Wirtschaft     §03
+*§2Aktuell         §04
+*§6Events         §09
+*§1Kalender     §012
+*§5Sehenswürdig§014
+*§cPvP-Tipps    §016
+*§9Rätsel         §021
+*§3Wissen         §024
+*§dWitze           §031
+*§8Schlusswort  §033
 
 ---------------------------------------
 
@@ -193,6 +194,43 @@ Hat dein Gegner Pfeil und Bogen, so solltest du auf keinen Fall ins Wasser gehen
 Im Wasser bewegst
 du dich langsamer
 und bist somit ein leichteres Ziel.
+
+---------------------------
+
+§9§nRätsel:                  §r§0
+
+Sudoku:
+
+# 3 # | 7 # 1 | 4 # #
+7 6 9 | # # # | # 2 #
+§n# 1 # | # # 8 | # # 7§r
+3 # # | # 1 # | # 7 6
+# # # | 4 # 3 | # 8 5
+§c§n# # # §0§n| # 8 # | 1 # 3§r
+8 # # | # # 7 | 6 # 2
+# 2 # | 3 4 # | # # #
+# # 6 | 8 9 2 | 7 # 4
+
+---------------------------
+
+§9§nRätsel:                  §r§0
+
+Wer die 3 roten Zahlen findet, und sie als Erster in einer Mail an Zariem schickt, gewinnt 250 Pixel.
+Bei mehreren Mails von derselben Person wird die erste Mail gewertet. Also passt auf, dass ihr euch nicht vertippt!
+
+---------------------------
+
+§9§nRätsel:                  §r§0
+
+Die Auflösungen zu den Rätseln der letzten Woche sind:
+
+§4§lFeuer
+
+§2§l182§0 Studenten
+
+gewonnen haben:
+§4Da_Koasa
+§2Hylianer04
 
 ---------------------------
 
