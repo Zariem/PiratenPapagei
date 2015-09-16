@@ -113,6 +113,26 @@ Somit könnt ihr aus dem Stand sprinten.
 
 §9§nRätsel:                  §r§0
 
+12843 = 3
+79534 = 2
+11111 = 0
+85673 = 3
+
+84882 = 7
+77354 = 1
+65564 = 3
+63275 = ?
+
+------------------------------
+
+§9§nRätsel:                  §r§0
+
+Schicke deine Lösung auf das Rätsel an Zariem, inklusive kurzer Begründung.
+
+Der Erste, der richtig liegt, verdient ganze 500 Pixel :)
+
+Viel Spass beim Knobeln!
+
 ------------------------------
 
 
@@ -135,6 +155,38 @@ Herzlichen Glückwunsch!
 
 §3§nWissen:                    §r§0
 
+Weshalb diamantene Schwerter unmöglich sind:
+
+Mal abgesehen davon, dass es in der Welt kaum Diamanten gibt, die gross genug sind, um in ein Schwert ge-
+schliffen zu werden, gibt es noch einige andere Gründe.
+
+------------------------------
+
+§3§nWissen:                    §r§0
+
+1: Diamanten sind spröde. Hätte man ein passendes Schwert, so würde dies wohl beim ersten Hieb zerbersten.
+
+2: Diamanten bestehen rein aus Kohlestoff und können problem-
+los verbrennen. So viel zu Feueraspekt...
+
+------------------------------
+
+§3§nWissen:                    §r§0
+
+3: Man kann deshalb auch unmöglich meh-
+rere Diamanten zu einem grösseren Diamanten kombinieren.
+
+4: Es dauert länger, ein Diamantschwert zu schleifen, als ein Metallschwert zu schmieden.
+
+------------------------------
+
+§3§nWissen:                    §r§0
+
+5: Zwar kann man be-
+reits industriell Dia-
+manten anfertigen, doch dieser Prozess dauert lange, und die dort hergestellten Diamanten sind in der Regel noch immer un-
+erschwinglich teuer.
+
 ------------------------------
 
 §3§nWissen:                    §r§0
@@ -148,6 +200,25 @@ Herzlichen Glückwunsch!
 ------------------------------
 
 §8§nSchlusswort:             §r§0
+
+Das war nun auch schon die siebte Aus-
+gabe des AyoBlitzes!
+
+Wir freuen uns, dass du dir diese Zeitung gekauft und durchge-
+lesen hast, und hof-
+fen, dass du sie auch weiterhin lesen und geniessen wirst.
+
+------------------------------
+
+§8§nSchlusswort:             §r§0
+
+Deine Blitz-Redaktion:
+
+
+Backpackhead,
+Deathfish17,
+MAureuz,
+Zariem.
 
 ------------------------------
 
