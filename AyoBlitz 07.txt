@@ -120,7 +120,18 @@ Nicht im Voraus gratulieren!
 
 --------------------------
 
+§5§nSehensw§rdig:          §r§0
+Heute statten wir dem Projekt von MeThaN einen Besuch ab.
+
+Er baut einen großen Wassertempel, der im Ozean zu finden ist. Die weiß-grüne Oase besteht zu großen Teilen aus Quarz und Bruchstein.
+
+---------------------------
+
 §5§nSehenswürdig:          §r§0
+
+Erreichen könnt ihr den verwunschenen Wassertempel, indem ihr in Spawnnähe den Südwest-Warp nehmt.
+
+Anschließend lauft ihr Richtung Norden. Auf der rechten Seite findet ihr unfehlbar den Wassertempel.
 
 --------------------------
 
@@ -275,6 +286,12 @@ erschwinglich teuer.
 ------------------------------
 
 §oWusstest du schon...§r
+ 
+Mit einer Lohenrute kannst du 12 Gegen-
+stände in einem Ofen brennen.
+
+Ein Lavaeimer kann sogar ganze 100 Ge-
+genstände brennen.
 
 ------------------------------
 
