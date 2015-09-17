@@ -17,7 +17,20 @@
 
 §8§nInhaltsverzeichnis:    §r§0
 
+*§4Wirtschaft     §03
+*§2Aktuell         §04
+*§6Events         §07
+*§1Kalender     §012
+*§5Sehenswürdig§014
+*§cPvP-Tipps    §016
+*§9Rätsel         §023
+*§3Wissen         §033
+*§dWitze           §038
+*§8Schlusswort  §040
+
 --------------------------
+
+§4§nWirtschaft:              §r§0
 
 Letzten Sonntag, den 13.9., wechselte bei der Shopversteiger-
 ung kein Shop den Besitzer.
@@ -104,7 +117,7 @@ Diese Woche fand, soweit der Redaktion bekannt, kein Geburtstag statt.
 
 Nächste Woche werden 4 Spieler Geburtstag feiern:
 
-Am 24.09 wird J_Spider ein Jahr älter
+Am 24.09 wird J_Spider ein Jahr älter.
 
 --------------------------
 
@@ -120,7 +133,8 @@ Nicht im Voraus gratulieren!
 
 --------------------------
 
-§5§nSehensw§rdig:          §r§0
+§5§nSehenswürdig:          §r§0
+
 Heute statten wir dem Projekt von MeThaN einen Besuch ab.
 
 Er baut einen großen Wassertempel, der im Ozean zu finden ist. Die weiß-grüne Oase besteht zu großen Teilen aus Quarz und Bruchstein.
@@ -231,19 +245,80 @@ Viel Spass beim Knobeln!
 
 ------------------------------
 
+§9§nRätsel:                  §r§0
+
+Wer es macht, der braucht es nicht.
+Wer es trägt, behält es nicht.
+Wer es kauft, der will es nicht.
+Wer es hat, der weiss es nicht.
+
+Was ist es?
+
+----------------------------
 
 §9§nRätsel:                  §r§0
 
+Auch hier gilt: Der Erste, der eine Mail
+mit der korrekten Lösung an Zariem schickt, bekommt
+500 Pixel!
 
+Viel Erfolg beim Rätseln!
+
+-----------------------------
+
+§9§nRätsel:                  §r§0
+
+Sieben Piraten und
+ein Affe sammeln auf einer Insel Kokos-
+nüsse, von denen es auf der Insel nicht mehr als 250 gibt.
+Am Ende eines an-
+strengenden Tages wollen sie die Kokos-
+nüsse aufteilen.
+
+------------------------------
+
+§9§nRätsel:                  §r§0
+
+Teilt man diese unter den Piraten und dem Affen in 8 gleiche Teile, bleibt jedoch eine übrig.
+Da keiner der Piraten dem anderen eine zusätzliche Kokos-
+nuss gönnen will,
+wollen sie diese unter den 7 Piraten auf-
+teilen.
+
+------------------------------
+
+§9§nRätsel:                  §r§0
+
+In diesem Fall bleiben 2 übrig, die man dann dem Affen überlassen kann. Ein anderer Pirat findet dies dem Affen gegenüber un-
+fair. Dadurch geraten die zwei Piraten in einen Streit, der für beide tödlich endet.
+
+------------------------------
+
+§9§nRätsel:                  §r§0
+
+Schliesslich teilen die verbleibenden 5 Pi-
+raten die Kokosnüsse untereinander auf, wobei 3 übrig bleiben, die sie dem Affen geben.
+
+Wieviele Kokosnüsse bekommt am Ende jeder überlebende Pirat?
+
+------------------------------
+
+§9§nRätsel:                  §r§0
+
+Dieses letzte Rätsel bekommt wegen seiner Schwierigkeit einen Preis von 1000 Px!
+
+Es lohnt sich also :D
+
+Viel Erfolg!
+
+------------------------------
+
+§9§nRätsel:                  §r§0
 
 Die Auflösung für das Sudoku von der letz-
-
 ten Woche ist "5 7 2" oder "2 7 5". (Es hat mehrere Lösungen.)
 
-
-
 Gewonnen hat Like_An_Schnitzel.
-
 
 Herzlichen Glückwunsch!
 
@@ -287,7 +362,6 @@ erschwinglich teuer.
 
 §3§nWissen:                    §r§0
 
-
 §oWusstest du schon...§r
  
 Mit einer Lohenrute kannst du 12 Gegen-
@@ -321,32 +395,35 @@ Fritzchen grinst:
 
 §8§nSchlusswort:             §r§0
 
-Das war nun auch schon die siebte Aus-
+Das war nun auch schon die siebte, und vorläufig letzte Aus-
 gabe des AyoBlitzes!
 
-Wir freuen uns, dass du dir diese Zeitung gekauft und durchge-
-lesen hast, und hof-
-fen, dass du sie auch weiterhin lesen und geniessen wirst.
+Wir hoffen, euch hat die Zeitung gefallen, und entschuldigen uns herzlichst für
+die erhofften Fort-
+setzungen.
 
 ------------------------------
 
 §8§nSchlusswort:             §r§0
 
-Deine Blitz-Redaktion:
+Aus schulischen und arbeitstechnischen Gründen hat die Re-
+daktion einfach nicht mehr genügend Zeit für den Blitz.
 
-
-Backpackhead,
-Deathfish17,
-MAureuz,
-Zariem.
+Wir bitten um euer Verständnis!
 
 ------------------------------
 
+§8§nSchlusswort:             §r§0
 
+Als Trost gibt es ja unser grosses Event und die drei Rätsel :D
 
+Beste Grüsse
 
+Eure Blitz-Redaktion:
 
-Nächste Ausgabe geplant am:
-25.9.
+Deathfish17, MAureuz,
+Backpackhead, Zariem
+
+------------------------------
 
 
