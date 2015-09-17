@@ -25,6 +25,18 @@
 
 §2§nAktuell:                  §r§0
 
+Goldrush City, jüngste Stadt auf Ayocraft, soll weiter wachsen.
+Der Bürgermeister beantragte bereits den Aufstieg zum Dorf. 
+Die Stadtleitung ist zuversichtlich, dass dem stattgegeben werden wird.
+
+--------------------------
+
+§2§nAktuell:                  §r§0
+
+In Deutschland sind nun die Sommerferien zu Ende- das merkt man auch auf Ayo.
+
+Vor allem Morgens spürt man das Fehlen der Schüler, die dafür Abends mit umso mehr Energie vor dem Bildschirm sitzen.
+
 --------------------------
 
 §6§nEvents:                  §r§0
@@ -32,6 +44,24 @@
 --------------------------
 
 §1§nKalender:                §r§0
+
+Diese Woche fand, soweit der Redaktion bekannt, kein Geburtstag statt.
+
+Nächste Woche werden 4 Spieler Geburtstag feiern:
+
+Am 24.09 wird J_Spider ein Jahr älter
+
+--------------------------
+
+§1§nKalender:                §r§0
+
+Am 25.09. feiert Philipp_97.
+Wie alt er wohl wird...
+
+Freitag, den 26.09 haben zwei Spieler Grund zur Freude:
+DJDome98 und Lara2000.
+
+Nicht im Voraus gratulieren!
 
 --------------------------
 
@@ -189,13 +219,28 @@ erschwinglich teuer.
 
 ------------------------------
 
-§3§nWissen:                    §r§0
-
 §oWusstest du schon...§r
 
 ------------------------------
 
 §d§nWitze:                     §r§0
+
+Am Bahnhof schimpft ein Mann seine Frau:
+"Wenn du einmal ein bisschen schneller wärst hätten wir den Zug noch erwischt!"
+
+Darauf meint sie:
+"Hättest du es weniger eilig müssten wir jetzt nicht warten."
+
+------------------------------
+
+§d§nWitze:                     §r§0
+
+Mutter zu Fritzchen:
+
+"Wenn du ständig nervst wirst du auch mal so nervige Kinder bekommen."
+
+Fritzchen grinst: 
+"Jetzt hast du dich aber verraten, Mama"
 
 ------------------------------
 
