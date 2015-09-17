@@ -17,7 +17,15 @@
 
 §8§nInhaltsverzeichnis:    §r§0
 
-[Seite 2 Freilassen: Inhaltsverzeichnis kommt ganz zum Schluss]
+*§2Aktuell§0           3
+*§6Events§0          10
+*§1Kalender§0       12
+*§5Sehenswürdig§0 14
+*§7Werbung§0        16
+*§9Rätsel§0          17
+*§3Wissen§0          20
+*§dWitze§0            25
+*§8Schlusswort§0   27
 
 ------------------------------
 
