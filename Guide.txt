@@ -1,135 +1,135 @@
-§2§nGuide:                    §r§0
+Â§2Â§nGuide:                    Â§rÂ§0
 
-Hallo. In diesem Guide möchte ich dir zeigen, wie man Artikel für den AyoBlitz verfasst, dass sie sich gut les-
-en lassen und schön formatiert sind.
-Ausserdem möchte ich hier einige Standards festlegen.
-
-----------------------------------
-
-§2§nGuide:                    §r§0
-
-Gehen wir dafür den Blitz einmal der Reihe nach durch.
-
-Es ist vorteilhaft, wenn du währenddessen das .txt-File offen hast, da du somit siehst, wie der Text dort aussieht.
+Hallo. In diesem Guide mÃ¶chte ich dir zeigen, wie man Artikel fÃ¼r den AyoBlitz verfasst, dass sie sich gut les-
+en lassen und schÃ¶n formatiert sind.
+Ausserdem mÃ¶chte ich hier einige Standards festlegen.
 
 ----------------------------------
 
-§2§nGuide:                    §r§0
+Â§2Â§nGuide:                    Â§rÂ§0
+
+Gehen wir dafÃ¼r den Blitz einmal der Reihe nach durch.
+
+Es ist vorteilhaft, wenn du wÃ¤hrenddessen das .txt-File offen hast, da du somit siehst, wie der Text dort aussieht.
+
+----------------------------------
+
+Â§2Â§nGuide:                    Â§rÂ§0
 
 Die Basics: Im File ist eine neue Seite durch einen horizontalen
 ------------------
-Strich markiert. Eine Zeile über und eine unter dem Strich sind leer und gehören nicht zu den Texten in den Seiten.
+Strich markiert. Eine Zeile Ã¼ber und eine unter dem Strich sind leer und gehÃ¶ren nicht zu den Texten in den Seiten.
 
 ----------------------------------
 
-§4§nDies ist ein Header:     §r§0
+Â§4Â§nDies ist ein Header:     Â§rÂ§0
 
 Header oder Titel sind immer in der ersten Zeile des Buches.
 Sie nehmen nicht mehr als eine Zeile ein, der Rest der Zeile wird mit unterstrichenen Leer-
-zeichen gefüllt.
+zeichen gefÃ¼llt.
 Zwischen Header und Text ist immer eine Leerzeile.
 
 ----------------------------------
 
-§2§nGuide:                    §r§0
+Â§2Â§nGuide:                    Â§rÂ§0
 
-Header stehen im Blitz für verschiedene Sek-
-tionen. Es wird nicht einfach etwas Neues für die Header dazu-
+Header stehen im Blitz fÃ¼r verschiedene Sek-
+tionen. Es wird nicht einfach etwas Neues fÃ¼r die Header dazu-
 gedichtet, da wir in unserem Layout keine allzu grossen Unter-
-schiede zu älteren Versionen haben möchten.
+schiede zu Ã¤lteren Versionen haben mÃ¶chten.
 
 ----------------------------------
 
-§2§nGuide:                    §r§0
+Â§2Â§nGuide:                    Â§rÂ§0
 
 Die Titelseite: Auf ihr ist immer der Blitz zu sehen, bei Spezial-
-editionen wird er z.B. eine andere Farbe tragen. Das Datum und die Editionsnummer ändern sich natürlich jedes Mal, und auch farblich sind sie variabel.
+editionen wird er z.B. eine andere Farbe tragen. Das Datum und die Editionsnummer Ã¤ndern sich natÃ¼rlich jedes Mal, und auch farblich sind sie variabel.
 
 ----------------------------------
 
-      §6%%%%%%%%%
-      §6%%%%%%%%
-        §6%%%%%%%%
-       §6%%%%%%%%
-      §6%%%%%%%%
-     §6%%%%%%%
-        §6%%%%%%%
-       §6%%%%%%%
-      §6%%%%%%
-     §6%%%%%
-    §6%%%%
-   §6%%%   §1AyoBlitz
-  §6%%    §1##/#.#.15
- §6%
+      Â§6%%%%%%%%%
+      Â§6%%%%%%%%
+        Â§6%%%%%%%%
+       Â§6%%%%%%%%
+      Â§6%%%%%%%%
+     Â§6%%%%%%%
+        Â§6%%%%%%%
+       Â§6%%%%%%%
+      Â§6%%%%%%
+     Â§6%%%%%
+    Â§6%%%%
+   Â§6%%%   Â§1AyoBlitz
+  Â§6%%    Â§1##/#.#.15
+ Â§6%
 
 ----------------------------------
 
-§7§nFarbcodes:              §r§0
+Â§7Â§nFarbcodes:              Â§rÂ§0
 
-§1Blau; §2Grün; §3Cyan; §4Rot; §5Lila; §6Gold; §7Hellgrau; §8Dunkelgrau; §9Hellblau; §0Schwarz;
-§aHellgrün; §bAqua; §cHellrot; §dRosa; §eGelb; §fWeiss; §0Schwarz = Farbreset
-§nunterstrichen und §lfett §rreset
+Â§1Blau; Â§2GrÃ¼n; Â§3Cyan; Â§4Rot; Â§5Lila; Â§6Gold; Â§7Hellgrau; Â§8Dunkelgrau; Â§9Hellblau; Â§0Schwarz;
+Â§aHellgrÃ¼n; Â§bAqua; Â§cHellrot; Â§dRosa; Â§eGelb; Â§fWeiss; Â§0Schwarz = Farbreset
+Â§nunterstrichen und Â§lfett Â§rreset
 
 ----------------------------------
 
-§7§nFarbcodes:              §r§0
+Â§7Â§nFarbcodes:              Â§rÂ§0
 
-§6gold §okursiv §1blau normal
-§0farbe resettet §msowas also §9auch
+Â§6gold Â§okursiv Â§1blau normal
+Â§0farbe resettet Â§msowas also Â§9auch
 
-§0Schaut am besten im .txt-File die Forma-
+Â§0Schaut am besten im .txt-File die Forma-
 tierung etwas genauer an.
 
 ---------------------------------
 
-§2§nGuide:                    §r§0
+Â§2Â§nGuide:                    Â§rÂ§0
 
-Nun wieder seriöser.
-Als Nächstes möchte ich die Seitengestal-
-tung bezüglich Les-
-barkeit und Ästhetik besprechen.
-Wie schreibt man einen Artikel, so dass er schön aussieht?
+Nun wieder seriÃ¶ser.
+Als NÃ¤chstes mÃ¶chte ich die Seitengestal-
+tung bezÃ¼glich Les-
+barkeit und Ã„sthetik besprechen.
+Wie schreibt man einen Artikel, so dass er schÃ¶n aussieht?
 
 ---------------------------------
 
-§3§nArtikel schreiben #1:   §r§0
+Â§3Â§nArtikel schreiben #1:   Â§rÂ§0
 
 Setz dein Resource-
 Pack auf Default. Die meisten Leser lesen den Blitz mit der klas-
 sischen Schriftart, und die Formatierung mit anderen Schrift-
-arten fällt nun mal anders aus.
+arten fÃ¤llt nun mal anders aus.
 
 ---------------------------------
 
-§3§nArtikel schreiben #2:   §r§0
+Â§3Â§nArtikel schreiben #2:   Â§rÂ§0
 
 Verfass den Artikel im Buch direkt. Somit kan-
-nst du deine Wortwahl so anpassen, dass es im Buch perfekt auf die einzelnen Seiten passt und angenehm für's Auge ist.
+nst du deine Wortwahl so anpassen, dass es im Buch perfekt auf die einzelnen Seiten passt und angenehm fÃ¼r's Auge ist.
 
 Hier ein paar Beispiele:
 
 ---------------------------------
 
-§4§nDON'T:                    §r§0
+Â§4Â§nDON'T:                    Â§rÂ§0
 
-Heute habe ich einen unglaublich überlangen Artikel formuliert.
+Heute habe ich einen unglaublich Ã¼berlangen Artikel formuliert.
 In meinem Zeitdruck habe ich ganz vergessen, darauf zu achten, dass es keinen Flattersatz
-und unnötige Umbrüche gibt.
+und unnÃ¶tige UmbrÃ¼che gibt.
 
 ---------------------------------
 
-§4§nDON'T:                    §r§0
+Â§4Â§nDON'T:                    Â§rÂ§0
 
 Deshalb dachte ich mir, ich versuche es ein-
 mal mit den Bindestri-
 chen, damit alles et-
-was schöner auf die Seite passt. Natürlich ist es nicht immer ein-
+was schÃ¶ner auf die Seite passt. NatÃ¼rlich ist es nicht immer ein-
 fach, sich zu ent-
 scheiden, wo getrennt wird, und wo nicht.
 
 ----------------------------------
 
-§3§nArtikel schreiben #3:   §r§0
+Â§3Â§nArtikel schreiben #3:   Â§rÂ§0
 
 Deshalb achte bei den Trennstrichen darauf, dass nicht mehr als zwei Striche in aufein-
 anderfolgenden Reihen auftreten, und dass insgesamt nicht zu viele Striche am Seitenrand sind.
@@ -137,44 +137,44 @@ Das macht das Ganze lesbarer.
 
 ----------------------------------
 
-§3§nArtikel schreiben #4:   §r§0
+Â§3Â§nArtikel schreiben #4:   Â§rÂ§0
 
-Sobald du etwas hast, worüber du berichten kannst, fasse es hier in einem MC-Buch in Worte. Brauchst du mehr als eine Seite, so überleg zweimal, ob du den Platz auch wirklich brauchst.
+Sobald du etwas hast, worÃ¼ber du berichten kannst, fasse es hier in einem MC-Buch in Worte. Brauchst du mehr als eine Seite, so Ã¼berleg zweimal, ob du den Platz auch wirklich brauchst.
 
 Sei dir im Klaren:
 
 ----------------------------------
 
-§3§nArtikel schreiben #4:   §r§0
+Â§3Â§nArtikel schreiben #4:   Â§rÂ§0
 
 * Der AyoBlitz ist darauf ausgelegt, kompakt zu sein.
 
-* Leute lesen lieber kurze, aussagekräf-
+* Leute lesen lieber kurze, aussagekrÃ¤f-
 tige Artikel, statt lange, wortschwangere Texte.
 
 Und falls du doch so viel Platz brauchst...
 
 ----------------------------------
 
-§3§nArtikel schreiben #4:   §r§0
+Â§3Â§nArtikel schreiben #4:   Â§rÂ§0
 
 ... dann achte darauf, dem Leser klar mitzu-
-teilen, dass es sich noch immer um einen zusammenhängenden Text handelt.
+teilen, dass es sich noch immer um einen zusammenhÃ¤ngenden Text handelt.
 
 Wie man dies erreicht, siehst du auch auf den Seiten 16, 17 und 19.
 
 ----------------------------------
 
-§3§nArtikel schreiben #4:   §r§0
+Â§3Â§nArtikel schreiben #4:   Â§rÂ§0
 
-Ausserdem kann man das Thema auch so fortführen, wie ich eben gerade.
+Ausserdem kann man das Thema auch so fortfÃ¼hren, wie ich eben gerade.
 
-Doch lässt sich ein Text auf eine Seite komprimieren, so ist es erwünscht, dass der Artikel auch so ge-
+Doch lÃ¤sst sich ein Text auf eine Seite komprimieren, so ist es erwÃ¼nscht, dass der Artikel auch so ge-
 schrieben wird.
 
 ----------------------------------
 
-§4§nArtikel schreiben #4:   §r§0
+Â§4Â§nArtikel schreiben #4:   Â§rÂ§0
 
 Auch wenn dabei klei-
 nere Infos verloren gehen.
@@ -185,10 +185,10 @@ gen ist.)
 
 ----------------------------------
 
-§2§nGuide:                    §r§0
+Â§2Â§nGuide:                    Â§rÂ§0
 
 Soweit so gut.
-Ich gebe hier mal ein Beispiel für einen Artikel in drei Bearbei-
+Ich gebe hier mal ein Beispiel fÃ¼r einen Artikel in drei Bearbei-
 tungsphasen.
 Ziel ist es, den Text auf eine Seite zu re-
 duzieren, ohne einen grossen Informations-
@@ -196,7 +196,7 @@ verlust in Kauf zu nehmen.
 
 ----------------------------------
 
-§9§nVersuch #1:              §r§0
+Â§9Â§nVersuch #1:              Â§rÂ§0
 
 Am 7. August wurden 00T und Windsturm Testobjekte einer Forschung zum Paa-
 rungsverhalten in Minecraft.
@@ -206,132 +206,132 @@ paarungsbox" am Spawn eingesperrt.
 
 -----------------------------------
 
-§9§nVersuch #1:              §r§0
+Â§9Â§nVersuch #1:              Â§rÂ§0
 
 Im Verlauf des Expe-
 riments kam Hylianer erstaunt zur Erkennt-
-nis, dass Männer ohne Frauen keinen Nach-
-wuchs zeugen können.
+nis, dass MÃ¤nner ohne Frauen keinen Nach-
+wuchs zeugen kÃ¶nnen.
 
 Die Paarungsbox wurde kurz darauf wieder entfernt.
 
 ----------------------------------
 
-§9§nVersuch #2:              §r§0
+Â§9Â§nVersuch #2:              Â§rÂ§0
 
 Am 7. August wurde am Spawn ein Experiment zum ingame-Paarungs-
 verhalten der User auf Ayocraft durch-
-geführt.
-Dabei musste Hylianer enttäuscht feststellen, dass Männer alleine keinen Nachwuchs zeugen können.
+gefÃ¼hrt.
+Dabei musste Hylianer enttÃ¤uscht feststellen, dass MÃ¤nner alleine keinen Nachwuchs zeugen kÃ¶nnen.
 
 ----------------------------------
 
-§9§nVersuch #3:              §r§0
+Â§9Â§nVersuch #3:              Â§rÂ§0
 
-Am 7.8. wurde am Spawn ein Experiment bezüg-
+Am 7.8. wurde am Spawn ein Experiment bezÃ¼g-
 lich dem Paarungsver-
 halten von Minecraft-
-Usern durchgeführt.
+Usern durchgefÃ¼hrt.
 
 Der Experiment-Leiter Hylianer04 musste dabei feststellen, dass es ohne Frauen keinen Nachwuchs gibt.
 
 ----------------------------------
 
-§2§nGuide:                    §r§0
+Â§2Â§nGuide:                    Â§rÂ§0
 
-Man kann nun darüber diskutieren, welcher Artikel besser ist.
-#1 ist ausführlich, aber etwas zu lang.
-#2 lässt sich nicht gut lesen, da der erste Satz zu lang ist.
+Man kann nun darÃ¼ber diskutieren, welcher Artikel besser ist.
+#1 ist ausfÃ¼hrlich, aber etwas zu lang.
+#2 lÃ¤sst sich nicht gut lesen, da der erste Satz zu lang ist.
 #3 hat 3 aufeinander-
 folgende Trennstriche. 
 
 ----------------------------------
 
-§2§nGuide:                    §r§0
+Â§2Â§nGuide:                    Â§rÂ§0
 
 Trotzdem ist in diesem Fall #3 am besten.
 Kurz und knackig er-
-fährt man in 2 Sätzen das Wichtigste zu dem Ereignis.
+fÃ¤hrt man in 2 SÃ¤tzen das Wichtigste zu dem Ereignis.
 
 Zudem gibt die Leer-
 zeile in der Mitte des Artikels dem Leser etwas "Luft".
 
 ----------------------------------
 
-§6§nStandards:               §r§0
+Â§6Â§nStandards:               Â§rÂ§0
 
-Damit wir unseren Blitz möglichst ähnlich formatieren, sind hier noch einige Regeln, wie z.B. auch die, die be-
+Damit wir unseren Blitz mÃ¶glichst Ã¤hnlich formatieren, sind hier noch einige Regeln, wie z.B. auch die, die be-
 reits zu den Headern genannt wurde:
 
 * Zitate und Namen "so" und nicht 'so' markieren.
 
 ----------------------------------
 
-§6§nStandards:               §r§0
+Â§6Â§nStandards:               Â§rÂ§0
 
-* Das scharfe S ist mir egal. Ich lasse es weg, ihr dürft es benutzen.
+* Das scharfe S ist mir egal. Ich lasse es weg, ihr dÃ¼rft es benutzen.
 Ich habe es einfach nicht auf meiner Tastatur. Ausserdem habe ich keine Ahnung, wann ich es brauchen sollte, und wann nicht.
 
 ----------------------------------
 
-§6§nStandards:               §r§0
+Â§6Â§nStandards:               Â§rÂ§0
 
-* Im AyoBlitz sind keine Fluchwörter zu ver-
+* Im AyoBlitz sind keine FluchwÃ¶rter zu ver-
 wenden, wenn es zu vermeiden ist.
 
-* Im AyoBlitz wird die persönliche Meinung zurückgehalten, und möglichst objektiv über alle Themen, die von Belang sind, ge-
+* Im AyoBlitz wird die persÃ¶nliche Meinung zurÃ¼ckgehalten, und mÃ¶glichst objektiv Ã¼ber alle Themen, die von Belang sind, ge-
 schrieben.
 
 ----------------------------------
 
-§6§nStandards:               §r§0
+Â§6Â§nStandards:               Â§rÂ§0
 
 * Ausrufezeichen nur im Notfall verwenden.
 Erst recht keine Rudel-Zeichensetzung.
 
-* Daten werden in Sätze integriert.
+* Daten werden in SÃ¤tze integriert.
 "7.8. Am Spawn war bla..." wird zu:
 "Am 7. August war am Spawn bla..."
 
 ----------------------------------
 
-§6§nStandards:               §r§0
+Â§6Â§nStandards:               Â§rÂ§0
 
 * Bei Platzmangel muss man Monate jedoch nicht ausschreiben.
-Bei genügend Platz Zahlen oder ähnliches ausschreiben, inso-
+Bei genÃ¼gend Platz Zahlen oder Ã¤hnliches ausschreiben, inso-
 fern es vom Layout her passt.
 
 ----------------------------------
 
-§6§nStandards:               §r§0
+Â§6Â§nStandards:               Â§rÂ§0
 
-* Texte müssen vor der Veröffentlichung gegengelesen werden.
+* Texte mÃ¼ssen vor der VerÃ¶ffentlichung gegengelesen werden.
 Dabei ist auf Kritik zu Wortwahl, Inhalt oder Formatierung einzu-
 gehen, so dass zusam-
-men eine Lösung ge-
-funden werden kann, die für alle optimal ist.
+men eine LÃ¶sung ge-
+funden werden kann, die fÃ¼r alle optimal ist.
 
 ----------------------------------
 
-§5§nDas .txt-File            §r§0
+Â§5Â§nDas .txt-File            Â§rÂ§0
 
-Nun muss nur noch geklärt werden, wie das .txt-File zu ge-
+Nun muss nur noch geklÃ¤rt werden, wie das .txt-File zu ge-
 stalten ist, damit es immer gleich aussieht.
 
 Hat es in einer Zeile keinen manuellen Umbruch, so liegt der Text im File auf einer einzigen Zeile.
 
 ----------------------------------
 
-§5§nDas .txt-File            §r§0
+Â§5Â§nDas .txt-File            Â§rÂ§0
 
 Gibt es jedoch manu-
-elle Umbrüche mit Bin-
+elle UmbrÃ¼che mit Bin-
 destrichen wie diesen, so wird nach einem Bindestrich im File eine neue Zeile angefangen.
-Auch Absätze beginnen auf einer neuen Zeile, auch falls es im Buch nicht nötig ist.
+Auch AbsÃ¤tze beginnen auf einer neuen Zeile, auch falls es im Buch nicht nÃ¶tig ist.
 
 ----------------------------------
 
-§5§nDas .txt-File            §r§0
+Â§5Â§nDas .txt-File            Â§rÂ§0
 
 Das File ist dazu da, dass man den Text einfach markieren kann, und mit Ctrl+C und Ctrl+V ins Buch hineinkopieren kann.
 
@@ -339,121 +339,121 @@ Es ist sozusagen eine externe Absicherung des Textes.
 
 ----------------------------------
 
-§5§nDas .txt-File            §r§0
+Â§5Â§nDas .txt-File            Â§rÂ§0
 
 Schreib den Text immer zuerst im Buch, so dass die Worte so ge-
-wählt sind, dass es schön formatiert ist.
+wÃ¤hlt sind, dass es schÃ¶n formatiert ist.
 
 Erst dann solltest du den Text im Buch in ein .txt-File abtippen, damit du dieselbe Formatie-
-rung erhältst.
+rung erhÃ¤ltst.
 
 ----------------------------------
 
-§5§nDas .txt-File            §r§0
+Â§5Â§nDas .txt-File            Â§rÂ§0
 
 Paragraph-Zeichen sind in einem Buch un-
 sichtbar und ausser-
 dem kann man sie hier nicht eintippen.
 Man muss sie also aus einem Text hineinkopi-
-eren, um die Texte im Buch einzufärben.
+eren, um die Texte im Buch einzufÃ¤rben.
 
-Dafür ist das .txt auch gut.
-
-----------------------------------
-
-§5§nDas .txt-File            §r§0
-
-Ausserdem behält das .txt-File überflüssige Leerzeichen. Das Ayo-
-Forum nimmt die z.B. raus, was u.a. bei der Formatierung der Tital etwas lästig sein kann.
+DafÃ¼r ist das .txt auch gut.
 
 ----------------------------------
 
-§5§nDas .txt-File            §r§0
+Â§5Â§nDas .txt-File            Â§rÂ§0
+
+Ausserdem behÃ¤lt das .txt-File Ã¼berflÃ¼ssige Leerzeichen. Das Ayo-
+Forum nimmt die z.B. raus, was u.a. bei der Formatierung der Titel etwas lÃ¤stig sein kann.
+
+----------------------------------
+
+Â§5Â§nDas .txt-File            Â§rÂ§0
 
 Sei dir aber bewusst, dass jedes Leerzei-
-chen im Buch einen Platz einnimmt. Und da Bücher nur eine limi-
+chen im Buch einen Platz einnimmt. Und da BÃ¼cher nur eine limi-
 tierte Anzahl Zeichen zulassen, ist das For-
 matieren mithilfe von Leerzeichen nicht immer optimal.
 
 ----------------------------------
 
-§5§nDas .txt-File            §r§0
+Â§5Â§nDas .txt-File            Â§rÂ§0
 
 Dass mir dabei auch schon der Platz aus-
 gegangen ist, sieht man, wenn man die In-
 haltsverzeichnisse der beiden ersten Blitze miteinander vergleicht.
-Ich habe das Problem mit etwas Improvisation gelöst.
+Ich habe das Problem mit etwas Improvisation gelÃ¶st.
 
 ----------------------------------
 
-§8§nInhaltsverzeichnis:     §r§0
+Â§8Â§nInhaltsverzeichnis:     Â§rÂ§0
 
-*§4Wirtschaft            §03
-*§2Aktuell                 §06
-*§1Kalender             §010
-*§9Rätsel                §012
-*§3Wissen                §014
-*§dWitze                  §018
-*§8Schlusswort         §020
+*Â§4Wirtschaft            Â§03
+*Â§2Aktuell                 Â§06
+*Â§1Kalender             Â§010
+*Â§9RÃ¤tsel                Â§012
+*Â§3Wissen                Â§014
+*Â§dWitze                  Â§018
+*Â§8Schlusswort         Â§020
 
 (Blitz 01)
 
 ----------------------------------
 
-§8§nInhaltsverzeichnis:     §r§0
+Â§8Â§nInhaltsverzeichnis:     Â§rÂ§0
 
-*§4Wirtschaft      §03
-*§2Aktuell           §05
-*§1Kalender       §011
-*§5Sehenswürdig: §012
-*§9Rätsel           §014
-*§3Wissen           §017
-*§dWitze             §019
-*§8Schlusswort    §020
+*Â§4Wirtschaft      Â§03
+*Â§2Aktuell           Â§05
+*Â§1Kalender       Â§011
+*Â§5SehenswÃ¼rdig: Â§012
+*Â§9RÃ¤tsel           Â§014
+*Â§3Wissen           Â§017
+*Â§dWitze             Â§019
+*Â§8Schlusswort    Â§020
 
 (Blitz 02)
 
 ----------------------------------
 
-§8§nSchlusswort:             §r§0
+Â§8Â§nSchlusswort:             Â§rÂ§0
 
 So, und bevor mir hier der Platz (50 Seiten) ausgeht, komme ich besser mal zum Schluss.
 
-Der Guide ist nun doch um einiges länger ge-
+Der Guide ist nun doch um einiges lÃ¤nger ge-
 worden, als ich es geplant hatte.
 
 ----------------------------------
 
-§8§nSchlusswort:             §r§0
+Â§8Â§nSchlusswort:             Â§rÂ§0
 
 Ich habe hier sicher noch einiges verges-
-sen zu erwähnen.
-Aber es ist ja auch schon spät...
+sen zu erwÃ¤hnen.
+Aber es ist ja auch schon spÃ¤t...
 
-Anyways. Ich hoffe, der Guide hilft jedem jetztigen und künfti-
+Anyways. Ich hoffe, der Guide hilft jedem jetztigen und kÃ¼nfti-
 gen Blitz-Mitschreiber bei der Formatierung.
 
 ----------------------------------
 
-§8§nSchlusswort:             §r§0
+Â§8Â§nSchlusswort:             Â§rÂ§0
 
 Das Ziel ist es ja, die optische und inhalt-
-liche Qualität des Ayo-
-Blitzes möglichst hoch zu halten. Und es wäre auch toll, wenn ich mal eine Woche in den Ur-
-laub gehen kann, und der Blitz dann immer noch läuft.
+liche QualitÃ¤t des Ayo-
+Blitzes mÃ¶glichst hoch zu halten. Und es wÃ¤re auch toll, wenn ich mal eine Woche in den Ur-
+laub gehen kann, und der Blitz dann immer noch lÃ¤uft.
 
 ----------------------------------
 
-§8§nSchlusswort:             §r§0
+Â§8Â§nSchlusswort:             Â§rÂ§0
 
-Am optimalsten wäre es ja, wenn in so einem Fall keine Qualitäts-
-Änderung sichtbar ist.
+Am optimalsten wÃ¤re es ja, wenn in so einem Fall keine QualitÃ¤ts-
+Ã„nderung sichtbar ist.
 
-Und alles in allem ist es sicherlich auch gut, wenn wir alle mit etwas Übung die Qualität sogar noch steigern können.
+Und alles in allem ist es sicherlich auch gut, wenn wir alle mit etwas Ãœbung die QualitÃ¤t sogar noch steigern kÃ¶nnen.
 
 ----------------------------------
 
-§8§nSchlusswort:             §r§0
+Â§8Â§nSchlusswort:             Â§rÂ§0
 
 
 
@@ -461,26 +461,26 @@ Und alles in allem ist es sicherlich auch gut, wenn wir alle mit etwas Übung die
 
 Bis dann!
 
-Deine §3Zariem§0,
-Chefredaktorin und Gründerin des Blitzes. 
+Deine Â§3ZariemÂ§0,
+Chefredaktorin und GrÃ¼nderin des Blitzes. 
 
 ----------------------------------
 
-§7§nPS:                        §r§0
+Â§7Â§nPS:                        Â§rÂ§0
 
 Signierst du das Buch nun, so bemerkst du, dass in der Formatie-
-rung einiges schief geht, da die Zeilen plötzlich etwas weniger Platz bieten.
+rung einiges schief geht, da die Zeilen plÃ¶tzlich etwas weniger Platz bieten.
 Deshalb ist es immer wichtig, das Buch nach dem Signieren noch mal zu
 
 ----------------------------------
 
-§7§nPS:                        §r§0
+Â§7Â§nPS:                        Â§rÂ§0
 
-überprüfen, und sol-
+Ã¼berprÃ¼fen, und sol-
 che Fehler zu entfer-
-nen, (durch hinzufü-
-gen oder entfernen von Trennstrichen), bevor das Buch dann veröffentlicht wird.
+nen, (durch hinzufÃ¼-
+gen oder entfernen von Trennstrichen), bevor das Buch dann verÃ¶ffentlicht wird.
 
-Zum Glück haben wir den Text dafür extern gespeichert ;)
+Zum GlÃ¼ck haben wir den Text dafÃ¼r extern gespeichert ;)
 
 ----------------------------------
